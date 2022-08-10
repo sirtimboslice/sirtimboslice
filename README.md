@@ -2,6 +2,8 @@
 - 👀 I’m interested in Python, automation, networking, and cybersecurity
 - 🌱 I’m currently learning Python
 
+- www - Visit my website and learn more about me at trwoodard.com
+
 
 <!---
 sirtimboslice/sirtimboslice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
