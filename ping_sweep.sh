@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# simple ping sweep and nmap port scan script for discovery. work in progress
 
 if [ "$1" == "" ]; then
 echo "You did not enter an IP address"
